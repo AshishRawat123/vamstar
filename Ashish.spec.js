@@ -1,4 +1,4 @@
-//await too.uploadFile(path);   // element.uploadFile(path)
+// We can require puppeteer and launch that in other file as well and then simply call that method.
 
 const puppeteer = require('puppeteer');
 const Setup = require('./Setup');
